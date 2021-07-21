@@ -1,5 +1,7 @@
 # Vault Helm Chart
 
+[![CIS](https://app.soluble.cloud/api/v1/public/badges/4eeaa07b-5235-42cd-81dc-4cec9ebb52c9.svg)](https://app.soluble.cloud/repos/details/github.com/aggie-innovation-platform-private/vault-helm)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/eba7918f-47ef-4cf3-940d-6f2f44e8b479.svg)](https://app.soluble.cloud/repos/details/github.com/aggie-innovation-platform-private/vault-helm)  
+
 > :warning: **Please note**: We take Vault's security and our users' trust very seriously. If 
 you believe you have found a security issue in Vault Helm, _please responsibly disclose_ 
 by contacting us at [security@hashicorp.com](mailto:security@hashicorp.com).
